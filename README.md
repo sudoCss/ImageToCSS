@@ -14,4 +14,6 @@ then run the script with
 python main.py path/to/image.jpg
 ```
 
+also accepts .jpeg & .png
+
 finally open the generated index.html fil in your browser
