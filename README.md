@@ -1,16 +1,16 @@
 # ImageToCSS
 
-Require python and python pip to be installed on your machine
+Require `python` and `python-pip` to be installed on your machine
 
 make sure to
 
-```sh
+```bash
 pip install Pillow
 ```
 
 then run the script with
 
-```sh
+```bash
 python main.py path/to/image.jpg
 ```
 
