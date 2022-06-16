@@ -1,4 +1,4 @@
-# Imports
+# Imports ssss
 from PIL import Image
 from os import path
 from sys import argv
